@@ -1,4 +1,4 @@
-# drawing-with-openCV
+<h1 align="center">Drawing/painting idk -with-openCV</h1>
 this repo basically contains all the learning from openCV, and maybe  few fun tricks in openCV. Primarly i add my progress and secondarly i'll add any cool scripts i've written that are worth sharing
 # Did know u can draw with open cv??
 - ### Here is how: 
