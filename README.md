@@ -5,11 +5,11 @@ this repo basically contains all the learning from openCV, and maybe  few fun tr
 # Drawing with mouse btn
 <p align="center"><img src="preview/preview-1.gif" align="center"></p>
 
-- explained in detail in comments for evry line in source code, check that out.
+- explained in detail in comments for every line in source code, check that out.
 
 # Drawing with mouse dragging
 <p align="center"><img src="preview/preview-2.gif" align="center"></p>
 
-- explained in detail in comments for evry line in source code, check that out.
+- explained in detail in comments for every line in source code, check that out.
 
 - # U ask me what's the use of this, NOTHING...absolutely NOTHING </br> then y did i do this? idk fr....i'm bored af.
